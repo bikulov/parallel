@@ -393,13 +393,15 @@ int main(void) {
 
 ---
 
-## Очереди
+## Брокер сообщений
 
-- [wiki:kafka](https://ru.wikipedia.org/wiki/Apache_Kafka)
+![w:20cm](assets/message_broker.png)
+
+- [wiki:Брокер сообщений](https://ru.wikipedia.org/wiki/Брокер_сообщений)
 - [RabbitMQ](https://www.rabbitmq.com/)
-- ...
+- [Kafka](https://kafka.apache.org/)
 
-[Podlodka #277 -- Менеджеры очередей](https://podlodka.io/277)
+[Podlodka #277 - Менеджеры очередей](https://podlodka.io/277)
 
 ---
 
@@ -409,4 +411,63 @@ int main(void) {
 
 ---
 
-## Гидродинамика
+## Гидродинамика: Lattice Boltzmann Method
+
+<div class="columns">
+<div>
+
+![](assets/p=085.png)
+
+</div>
+<div>
+
+![](assets/propp2.png)
+
+</div>
+</div>
+
+[Диссертация Бикулов - Моделирование явлений переноса...](assets/bikulov_diss_v1.7.pdf)
+
+---
+
+## Нейросети
+
+[github:Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+
+![w:16cm](assets/stablediff.png)
+
+Картинка с [stability.ai](https://stability.ai/blog/stable-diffusion-public-release)
+
+---
+
+<div class="columns">
+<div>
+
+## Моделирование частиц
+
+<br>
+
+Картинка из [примеров CUDA](https://github.com/zchee/cuda-sample/tree/master/5_Simulations/particles)
+
+<br>
+
+почитайте код, там много оптимизаций :)
+
+
+</div>
+<div>
+
+![w:12cm](assets/particles.png)
+
+</div>
+</div>
+
+---
+
+# Спасибо! Вопросы?
+
+Классификация Флинна, По доступу к памяти, Другие классификации, Фактически доступно, Собственный ноутбук, Видеокарты, Облака, Суперкомпьютеры, Штош
+
+OpenMP, MPI, Потоки, Python: потоки, процессы и корутины, CUDA, MapReduce, Брокер сообщений
+
+Гидродинамика: Lattice Boltzmann Method, Нейросети, Моделирование частиц
